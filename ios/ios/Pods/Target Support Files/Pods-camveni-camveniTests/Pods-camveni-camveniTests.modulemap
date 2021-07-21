@@ -1,0 +1,6 @@
+module Pods_camveni_camveniTests {
+  umbrella header "Pods-camveni-camveniTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
